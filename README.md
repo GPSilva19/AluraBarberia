@@ -1,4 +1,5 @@
 # AluraBarberia
-Primeiro projeto feito junto ao professor e meu tbm
 
-Feito com HTML E CSS
+> Primeiro projeto feito junto ao professor.
+
+Feito com **HTML** e **CSS**
