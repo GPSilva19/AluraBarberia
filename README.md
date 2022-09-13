@@ -1,5 +1,5 @@
 # AluraBarberia
 
-Primeiro projeto feito junto ao professor. ```Completo```
+Meu primeiro projeto.   ```Completo```
 
 > Feito com **HTML** e **CSS**
